@@ -2,7 +2,7 @@
 
 Chrome extension that scrolls two tabs in sync.
 
-https://github.com/user-attachments/assets/scroll-sync.mp4
+https://github.com/user-attachments/assets/d9c4b89c-ed82-4b66-a943-d0b40b6c812c
 
 ## Features
 
